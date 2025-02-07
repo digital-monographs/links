@@ -1,0 +1,9 @@
+format: jb-book
+root: index
+chapters:
+  - file: 01_a
+  - file: 02_b
+  - file: 03_c
+  - file: 04_d
+  - file: 05_citation_in_fields
+  - file: 06_citation_in_footnotes
